@@ -31,10 +31,30 @@ const questions = () =>
             message: 'Write a brief description of your project.',
         },
         {
+            typr: 'input',
+            name: 'install',
+            message: 'How did you install your project?'
+        },
+        {
+            type: 'input',
+            name: 'usage',
+            message: 'How do you use your project?',
+        },
+        {
             type: 'checkbox',
             name: 'license',
             message: 'What License would you like your project to have?',
             choices: ['MIT', 'BSD', 'Apache', 'GNU', 'Eclipse', 'Mozilla']
+        },
+        {
+            type: 'input',
+            name: 'contribute',
+            message: 'Who contributed to your project?',
+        },
+        {
+            type: 'input',
+            name: 'tests',
+            message: 'What tests are performed in this project?',
         },
     ]);
 
@@ -49,14 +69,14 @@ const questions = () =>
     }
 
     async function init() {
-   
-    
         const answers = await questions();
         console.log(answers);
     
         generateMarkdown(answers);
     
-        writeToFile("README.md", generateMarkdown(answers));
+        writeToFile("./dist/README.md", generateMarkdown(answers));
+
+        console.log('READme generated in dist folder!');
     }
 
     init();
