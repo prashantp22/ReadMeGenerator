@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/license-Apache-blue"/>
     
   ## Description
-  readme maker
+  project description
     
   ## Table of Contents
   - [Description](#description)
@@ -17,7 +17,7 @@
 
     
   ## Installation
-  install description
+  project install
 
   ## Usage
   project use 
@@ -31,12 +31,12 @@
   Prashant
 
   ## Tests
-  tests performed
+  project test
     
   ## Questions
   If you have any questions, comments, or concerns please email me at address provided below.
     
-  Email me at: [prashantpatel@gmail.com](prashantpatel@gmail.com)
+  Email me at: [prashantpatel622@gmail.com](prashantpatel622@gmail.com)
 
   My GitHub link: [prashantp22](https://github.com/prashantp22)
   

@@ -35,7 +35,7 @@ function generateMarkdown(data) {
   ${data.tests}
     
   ## Questions
-  If you have any questions, comments, or concerns please email me at address provided below.
+  If you have any questions please email me at address provided below.
     
   Email me at: [${data.email}](${data.email})
 
