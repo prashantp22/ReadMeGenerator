@@ -1,9 +1,7 @@
 
-  # readme
+  # README Generator
     
-  
-  <img src="https://img.shields.io/badge/license-MIT-blue"/>
-  
+  <img src="https://img.shields.io/badge/license-Apache-blue"/>
     
   ## Description
   readme maker
@@ -19,26 +17,26 @@
 
     
   ## Installation
-  git clone
+  install description
 
   ## Usage
-  answer questions 
+  project use 
     
   ## License
-  ![badge](https://img.shields.io/badge/license-MIT-blue)
+  ![badge](https://img.shields.io/badge/license-Apache-blue)
     
-  MIT license was used for this project. 
+  Apache license was used for this project. 
 
   ## Contributing
-  prashant
+  Prashant
 
   ## Tests
-  undefined
+  tests performed
     
   ## Questions
-  Have any questions, comments, or concerns?
+  If you have any questions, comments, or concerns please email me at address provided below.
     
-  Check me out on GitHub: [github](https://github.com/github)
-    
-  Email me at: [prashant](prashant)
+  Email me at: [prashantpatel@gmail.com](prashantpatel@gmail.com)
+
+  My GitHub link: [prashantp22](https://github.com/prashantp22)
   
