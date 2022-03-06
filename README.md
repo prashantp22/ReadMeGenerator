@@ -32,7 +32,7 @@
   Prashant
 
   ## Tests
-  [![SC2 Video](https://drive.google.com/file/d/11eBFiN4M-eNilWd-5z5pEGt1o_i3f9NL/view)](https://drive.google.com/file/d/11eBFiN4M-eNilWd-5z5pEGt1o_i3f9NL/view)
+  <iframe src="https://drive.google.com/file/d/11eBFiN4M-eNilWd-5z5pEGt1o_i3f9NL/preview" width="640" height="480" allow="autoplay"></iframe>
     
   ## Questions
   If you have any questions please email me at address provided below.
